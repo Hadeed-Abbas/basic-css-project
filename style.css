@@ -89,6 +89,7 @@
     display: flex;
     justify-content: center;
     gap: 50px;
+    margin-bottom: 5px;
 }
 
 .body .images div{
