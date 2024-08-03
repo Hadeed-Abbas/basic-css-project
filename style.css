@@ -106,7 +106,7 @@
     object-fit: cover;
     border: 2px rgb(0, 132, 255) solid;
     border-radius: 10px;
-    
+    margin-bottom: 10px;
 }
 
 .body .images div .nile-img{
