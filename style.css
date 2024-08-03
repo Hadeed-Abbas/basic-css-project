@@ -7,9 +7,9 @@
 
 .header{
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
     background-color: #1f2937;
-    padding: 20px 200px;
+    padding: 20px;
 }
 
 .logo{
@@ -29,11 +29,12 @@
 
 .hero{
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
     background-color: #1f2937;
-    height: 300px;
+    height: auto;
+    width: auto;
     align-items: center;
-    padding: 30px 200px 75px;
+    padding: 50px;
     gap: 32px;
 }
 
